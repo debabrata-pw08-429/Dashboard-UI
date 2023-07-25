@@ -1,0 +1,92 @@
+/* Box Styles */
+.HeadingNav-box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.HeadingNav-box .HeadingNav-frame-wrapper {
+  border: 0px none;
+  height: 70px;
+  width: 1264px;
+}
+
+.HeadingNav-box .HeadingNav-frame {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dde5ea;
+  border-radius: 12px 12px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  /* height: 72px; */
+  justify-content: center;
+  left: 0;
+  padding: 0px 20px;
+}
+
+.HeadingNav-box .HeadingNav-div {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.HeadingNav-box .HeadingNav-frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+}
+
+.HeadingNav-box .HeadingNav-text-wrapper {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.HeadingNav-box .HeadingNav-vector {
+  height: 46px;
+  width: 1px;
+}
+
+.HeadingNav-box .HeadingNav-div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+}
+
+.HeadingNav-box .HeadingNav-frame-3 {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 0px;
+  border-bottom: 3px solid #0073e6;
+}
+
+.HeadingNav-box .HeadingNav-text-wrapper-2 {
+  color: #0073e6;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  width: fit-content;
+}

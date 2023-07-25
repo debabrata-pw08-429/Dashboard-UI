@@ -1,0 +1,365 @@
+.ac-element-dot {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.ac-frame-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dadce0;
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  overflow: hidden;
+  padding: 14px;
+  position: relative;
+  width: 370px;
+  height: 200px;
+}
+
+.ac-frame-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.ac-frame-9 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+}
+
+.ac-img {
+  height: 50px;
+  position: relative;
+  width: 50px;
+}
+
+.ac-frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.ac-frame-11 {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+}
+
+.ac-txt-wrapper-3 {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.ac-txt-wrapper-4 {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: relative;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.ac-vector {
+  height: 16px;
+  position: relative;
+  width: 1px;
+}
+
+.ac-div-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 22px;
+  position: relative;
+}
+
+.ac-frame-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.ac-schedule {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.ac-txt-wrapper-5 {
+  color: #8da4bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.ac-elem-dot-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 40px;
+  display: flex;
+  gap: 8px;
+  height: 24px;
+  justify-content: center;
+  padding: 4px 8px;
+  position: relative;
+  width: 24px;
+}
+
+.ac-three-dot {
+  height: 16px !important;
+  left: unset !important;
+  margin-left: -4px !important;
+  margin-right: -4px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 16px !important;
+}
+
+.ac-vector-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.ac-frame-13 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.ac-frame-14 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.ac-frame-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+}
+
+.ac-txt-wrapper-6 {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.ac-txt-wrapper-7 {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ac-frame-16 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #1c4980;
+  border-radius: 50px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 30px;
+  justify-content: center;
+  padding: 2px 8px 2px 8px;
+}
+
+.ac-link {
+  height: 16px;
+  position: relative;
+  width: 18px;
+}
+
+.ac-txt-wrapper-8 {
+  display: flex;
+  justify-content: ;
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.ac-frame-17 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.ac-frame-18 {
+  align-items: center;
+  background-color: #6548ee;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 32.73px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 30px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 5px 6px;
+  position: relative;
+  width: 30px;
+}
+
+.ac-txt-wrapper-9 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.ac-frame-19 {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.ac-frame-20 {
+  align-items: flex-end;
+  background-color: #6548ee;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 32.73px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 25px;
+  height: 25px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 5px 6px;
+  position: relative;
+}
+
+.ac-txt-wrapper-10 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.ac-frame-21 {
+  align-items: flex-end;
+  background-color: #3079e1;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 32.73px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 25px;
+  height: 25px;
+  justify-content: center;
+  margin-left: -15.59px;
+  overflow: hidden;
+  padding: 5px 6px;
+  position: relative;
+}
+
+.ac-frame-22 {
+  align-items: flex-end;
+  background-color: #e9407a;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 32.73px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 25px;
+  height: 25px;
+  justify-content: center;
+  margin-left: -15.59px;
+  padding: 5px 6px;
+  position: relative;
+  width: 25px;
+}
+
+.ac-txt-wrapper-11 {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
