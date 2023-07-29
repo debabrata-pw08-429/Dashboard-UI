@@ -63,8 +63,8 @@
   width: 40px;
 }
 
-/* Applied to the .box */
-.box {
+/* Applied to the .box__01 */
+.box__01 {
   background-color: transparent;
   display: flex;
   flex-direction: row;
@@ -72,8 +72,8 @@
   width: 100%;
 }
 
-/* Applied to the .div */
-.box .div {
+/* Applied to the .div__01 */
+.box__01 .div__01 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -81,7 +81,7 @@
   position: relative;
 }
 
-/* Applied to the .segment-wrapper div */
+/* Applied to the .segment-wrapper div__01 */
 .segment-wrapper {
   align-items: center;
   background-color: #f2f8fe;
@@ -108,7 +108,7 @@
   width: 30px !important;
 }
 
-/* Applied to the .text-wrapper div */
+/* Applied to the .text-wrapper div__01 */
 .text-wrapper__009 {
   color: #1c4980;
   font-family: "Inter", Helvetica;

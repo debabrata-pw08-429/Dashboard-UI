@@ -25,8 +25,8 @@ const MobileNav = () => {
           </DrawerBody>
         </DrawerContent>
       </Drawer>
-      <div className="box">
-        <div className="div">
+      <div className="box__01">
+        <div className="div__01">
           <div className="segment-wrapper">
             <img
               src="https://generation-sessions.s3.amazonaws.com/558c6794f9450f0f95f306d7e92ad052/img/segment-1.svg"

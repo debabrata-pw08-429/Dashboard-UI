@@ -1,5 +1,5 @@
 import { Box } from "@chakra-ui/react";
-import MobileNav from "./components/MobileNav/MobileNav";
+import MobileNav from "./components/mobileNav/MobileNav";
 import AddAssessment from "./components/AddAssessment/AddAssessment";
 import Dashboard from "./pages/Dashboard.jsx";
 
