@@ -1,6 +1,6 @@
 import MyAssessmentDetails from "../components/AssessmentDetails/MyAssessmentDetails";
 import SideNavigation from "../components/Navigation/Navigation";
-import "./dashboard.css";
+import "./dash.css";
 
 const Dashboard = () => {
   return (

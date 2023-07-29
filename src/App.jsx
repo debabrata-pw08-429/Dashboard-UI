@@ -1,7 +1,7 @@
 import { Box } from "@chakra-ui/react";
-import Dashboard from "./pages/Dashboard";
 import MobileNav from "./components/MobileNav/MobileNav";
 import AddAssessment from "./components/AddAssessment/AddAssessment";
+import Dashboard from "./pages/Dashboard.jsx";
 
 function App() {
   if (window.innerWidth <= 420) {
