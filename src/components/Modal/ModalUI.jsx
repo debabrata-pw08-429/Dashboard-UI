@@ -10,10 +10,6 @@ import {
   ModalBody,
   ModalCloseButton,
   useDisclosure,
-  // Button,
-  // FormControl,
-  // FormLabel,
-  // Input,
 } from "@chakra-ui/react";
 
 function ModalUI() {
@@ -57,7 +53,7 @@ function ModalUI() {
         onClose={onClose}
       >
         <ModalOverlay />
-        <ModalContent>
+        <ModalContent className="modal_content">
           <ModalHeader className="header">
             <div className="header-text">Create new assessment</div>
             <ModalCloseButton />

@@ -1,0 +1,121 @@
+/* mobileNav.css */
+
+.mobile-nav {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 8px;
+}
+
+.mobile-nav .text-wrapper {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mobile-nav .nav-item {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.mobile-nav .icon-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 50px;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 40px;
+}
+
+.mobile-nav .search-icon {
+  height: 22px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 22px !important;
+}
+
+.mobile-nav .filter-icon {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.mobile-nav .chart-icon {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+/* Applied to the .box */
+.box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+/* Applied to the .div */
+.box .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+/* Applied to the .segment-wrapper div */
+.segment-wrapper {
+  align-items: center;
+  background-color: #f2f8fe;
+  border-radius: 60px;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 40px;
+}
+
+/* Applied to the .segment-instance img */
+.segment-instance {
+  height: 30px !important;
+  left: unset !important;
+  margin-bottom: -5px !important;
+  margin-left: -5px !important;
+  margin-right: -5px !important;
+  margin-top: -5px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 30px !important;
+}
+
+/* Applied to the .text-wrapper div */
+.text-wrapper__009 {
+  color: #1c4980;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+}

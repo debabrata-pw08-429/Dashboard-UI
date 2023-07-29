@@ -18,10 +18,9 @@
   flex-direction: column;
   gap: 20px;
   overflow: hidden;
-  padding: 14px !important;
+  padding: 14px;
   position: relative;
   width: 370px;
-  height: 209px;
 }
 
 .ac-frame-8 {
@@ -138,21 +137,21 @@
   border-radius: 40px;
   display: flex;
   gap: 8px;
-  height: 24px;
+  height: 30px;
   justify-content: center;
   padding: 4px 8px;
   position: relative;
-  width: 24px;
+  width: 35px;
 }
 
 .ac-three-dot {
-  height: 16px !important;
+  height: 50px !important;
   left: unset !important;
   margin-left: -4px !important;
   margin-right: -4px !important;
   position: relative !important;
   top: unset !important;
-  width: 16px !important;
+  width: 50px !important;
 }
 
 .ac-vector-2 {
@@ -171,6 +170,7 @@
   justify-content: space-between;
   position: relative;
   width: 100%;
+  /* padding-bottom: 15px; */
 }
 
 .ac-frame-14 {
@@ -297,7 +297,7 @@
   flex-direction: column;
   gap: 10px;
   width: 30px;
-  height: 25px;
+  height: 30px;
   justify-content: center;
   overflow: hidden;
   padding: 5px 6px;
@@ -325,8 +325,8 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 25px;
-  height: 25px;
+  width: 30px;
+  height: 30px;
   justify-content: center;
   margin-left: -15.59px;
   overflow: hidden;
@@ -343,13 +343,12 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 25px;
-  height: 25px;
+  width: 30px;
+  height: 30px;
   justify-content: center;
   margin-left: -15.59px;
   padding: 5px 6px;
   position: relative;
-  width: 25px;
 }
 
 .ac-txt-wrapper-11 {

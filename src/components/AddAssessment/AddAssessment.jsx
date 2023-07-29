@@ -12,10 +12,6 @@ import {
   ModalBody,
   ModalCloseButton,
   useDisclosure,
-  // Button,
-  // FormControl,
-  // FormLabel,
-  // Input,
 } from "@chakra-ui/react";
 
 const AddAssessment = () => {
@@ -59,12 +55,12 @@ const AddAssessment = () => {
 
   return (
     <div className="card_container">
-      <div className="text-wrapper">My Assessment</div>
       <div className="new_plus_card">
         <div onClick={handleChange}>
           <AddNew />
         </div>
 
+        <AssessmentCard />
         <AssessmentCard />
         <AssessmentCard />
         <AssessmentCard />

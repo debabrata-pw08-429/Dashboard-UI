@@ -15,15 +15,3 @@
   gap: 15px;
   overflow: auto;
 }
-
-.text-wrapper {
-  color: #1c4980;
-  font-family: "Inter", Helvetica;
-  font-size: 18px;
-  font-weight: 500;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}

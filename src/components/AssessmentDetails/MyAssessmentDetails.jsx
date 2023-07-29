@@ -9,6 +9,7 @@ const MyAssessmentDetails = () => {
     <div className="my_assessment_details">
       <HeadingNav />
       <Metrics />
+      <div className="text-wrapper-001">My Assessment</div>
       <AddAssessment />
     </div>
   );
