@@ -4,9 +4,13 @@ import MobileNav from "./components/MobileNav/MobileNav";
 import AddAssessment from "./components/AddAssessment/AddAssessment";
 
 function App() {
+  if (window.innerWidth <= 420) {
+    window.location.reload();
+  }
+
   return (
     <>
-      {window.innerWidth <= 390 ? (
+      {window.innerWidth <= 420 ? (
         <>
           <MobileNav />
           <AddAssessment />
