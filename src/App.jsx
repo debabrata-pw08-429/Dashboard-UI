@@ -4,10 +4,6 @@ import AddAssessment from "./components/AddAssessment/AddAssessment";
 import Dashboard from "./pages/Dashboard.jsx";
 
 function App() {
-  if (window.innerWidth <= 420) {
-    window.location.reload();
-  }
-
   return (
     <>
       {window.innerWidth <= 420 ? (
